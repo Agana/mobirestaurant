@@ -7,3 +7,9 @@ mobirestaurant - Work deadlines
 5th - talk to Darlington with Kafu - 4pm
 8th - deploy to google appengine - 9am
 8th - demo to them on app engine (via mobile)
+
+1. What other models do we need?
+2. Check if tel number is 10 digits
+3. If the order id is maybe 50, HttpResponse "Sorry, we can't take any more orders now, please try again in a few minutes"
+4. Calculate the bill
+5. ect 
